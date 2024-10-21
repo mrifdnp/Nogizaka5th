@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Nogizaka46 5th Generation
+    </string>
+    <string name="profileName">Mohamad Rifqi Dani Putranto</string>
+    <string name="profileEmail">rifqidani23@gmail.com</string>
+
+    <string name="references">References</string>
+<string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="member_name">Member</string>
+    <string name="member_city">Asal</string>
+    <string name="desc_app">"Nogizaka46's 5th Generation were selected from the Nogizaka46 New Member Auditions held from July to September 2021. Though originally scheduled to be announced in December 2021, the first 8 of 11 successful applicants were unveiled as members daily starting from February 2nd, 2022. Due to academic commitments, the final 3 members were unveiled over March-April 2022. They currently have 11 members. There was announced in July of 2021."</string>
+
+    <string-array name="data_kanji">
+    <item>池田瑛紗</item>
+    <item>菅原咲月</item>
+    <item>井上和</item>
+    <item>一ノ瀬美空</item>
+    <item>冨里奈央</item>
+    <item>小川彩</item>
+    <item>中西アルノ</item>
+    <item>川﨑桜</item>
+    <item>五百城茉央</item>
+    <item>奥田いろは</item>
+    <item>岡本姫奈</item>
+    </string-array>
+
+
+    <string-array name="data_name">
+        <item>Teresa Ikeda</item>
+        <item>Satsuki Sugawara</item>
+        <item>Nagi Inoue</item>
+        <item>Miku Ichinose</item>
+        <item>Nao Tomisato</item>
+        <item>Aya Ogawa</item>
+        <item>Aruno Nakanishi</item>
+        <item>Sakura Kawasaki</item>
+        <item>Mao Ioki</item>
+        <item>Iroha Okuda</item>
+        <item>Hina Okamoto</item>
+
+    </string-array>
+    <string-array name="data_nick">
+        <item>(てれさ Teresa)</item>
+        <item> (さつきちゃん, Satsukichan)</item>
+        <item>(なぎ, Nagi)</item>
+        <item>(くぅちゃん Kuuchan, みっく Mikku)</item>
+        <item> (なおなお, Naonao)</item>
+        <item> (あーや, Aaya)</item>
+        <item> (あるの Aruno)</item>
+        <item>(さくたん, Sakutan)</item>
+        <item>(いおちゃん Iochan)</item>
+        <item> (いろは, Iroha)</item>
+        <item>(ひーちゃん, Hiichan)</item>
+
+    </string-array>
+
+    <string-array name="data_city">
+        <item>Tokyo </item>
+        <item>Chiba</item>
+        <item>Kanagawa</item>
+        <item>Fukuoka</item>
+        <item>Chiba</item>
+        <item>Chiba</item>
+        <item>Chiba</item>
+        <item>Kanagawa</item>
+        <item>Hyogo</item>
+        <item>Chiba</item>
+        <item>Aichi</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/teresa</item>
+        <item>@drawable/satsuki</item>
+        <item>@drawable/nagi</item>
+        <item>@drawable/miku</item>
+        <item>@drawable/nao</item>
+        <item>@drawable/aya</item>
+        <item>@drawable/aruno</item>
+        <item>@drawable/sakura</item>
+        <item>@drawable/ioki</item>
+        <item>@drawable/iroha</item>
+        <item>@drawable/hina</item>
+    </integer-array>
+
+        <string-array name="nogi_birthdays">
+            <item>May 12, 2002 (age 22)</item>
+            <item>October 31, 2005 (age 18)</item>
+            <item>February 17, 2005 (age 19)</item>
+            <item>May 24, 2003 (age 21)</item>
+            <item>September 18, 2006 (age 18)</item>
+            <item>June 27, 2007 (age 17)</item>
+            <item>March 17, 2003 (age 21)</item>
+            <item>April 17, 2003 (age 21)</item>
+            <item>July 29, 2005 (age 19)</item>
+            <item>August 20, 2005 (age 19)</item>
+            <item>December 17, 2003 (age 20)</item>
+        </string-array>
+
+
+    <string-array name="data_trivia">
+        <item>Describes her personality as dark and cat-like, is working to overcome her shyness; Loves ducks. Collects many duck-related items, such as rubber ducks and artwork</item>
+        <item>One of her hobbies since 6th year of elementary school, is watching idols; Says she absolutely cant cook, to a level where she cant even help someone in the kitchen</item>
+        <item>Prior to entering Nogizaka46, was a child model under Amuse; Skilled artist, nearly on par with 4th Generation member Kaki Haruka; Likes anime songs, Vocaloid, Yonezu Kenshi, Yorushika</item>
+        <item>In her introductory video, is holding a wild daffodil or Lent lily (Narcissus pseudonarcissus); Prior to entering Nogizaka46, was crowned Runner-Up of the JC Beauty Pageant 2017; Known for her obsession with cute things, especially fellow 5th Generation member Ogawa Aya</item>
+        <item>Is a former member of girl group Ichikawa Otomoe (市川乙女); Family raises jellyfish and crayfish at home Dad enjoys fishing, and the family often goes crayfishing together; Father is a Nogizaka46 fan</item>
+        <item>Youngest member of 5th Generation; In her introductory video, is holding a light pink Gerbera flower; Prior to entering Nogizaka46, was a child model for Kirapichi</item>
+        <item>Has a gifted Nogizaka Star Tanjous stage name Sensei from the host Oswald due to her outstanding singing skill.; Was to be the original Center for Nogizaka46s 29th single, Actually.., but was suspended from activities and removed from the Senbatsu due to controversial social media posts. She was replaced as Center by Saito Asuka and Yamashita Mizuki.</item>
+        <item>Dreamt of becoming a pediatrician, a weather announcer, or an actress; Known for her childlike drawing style, per Nogichuu</item>
+        <item>Admired members: Seimiya Rei, Ito Marika, Higuchi Hina; In her introductory video, is holding a calla lily (Zantedeschia aethiopica).; Cousins with Hinatazaka46 member Shogenji Yoko</item>
+        <item>In her introductory video, is holding a pale pink Sweet pea (Lathyrus odoratus); Born in Kanagawa Prefecture and moved to Chiba Prefecture at 5 yrs old; Parents named her "Iroha" after Iroha (五郎八), eldest daughter of Date Masamune; Has an older sister and younger brother</item>
+        <item>On March 15, 2022, prior to starting activities, was placed on suspension due to violation of the groups activity rules. This delayed her debut and made her the final 5th Generation member to be announced, with her reveal video being released on April 27</item>
+
+    </string-array>
+
+    <string-array name="references">
+        <item>https://akb48.fandom.com/wiki/Ikeda_Teresa</item>
+        <item>https://akb48.fandom.com/wiki/Sugawara_Satsuki</item>
+        <item>https://akb48.fandom.com/wiki/Inoue_Nagi</item>
+        <item>https://akb48.fandom.com/wiki/Ichinose_Miku</item>
+        <item>https://akb48.fandom.com/wiki/Tomisato_Nao</item>
+        <item>https://akb48.fandom.com/wiki/Ogawa_Aya</item>
+        <item>https://akb48.fandom.com/wiki/Nakanishi_Aruno</item>
+        <item>https://akb48.fandom.com/wiki/Kawasaki_Sakura</item>
+        <item>https://akb48.fandom.com/wiki/Ioki_Mao</item>
+        <item>https://akb48.fandom.com/wiki/Okuda_Iroha</item>
+        <item>https://akb48.fandom.com/wiki/Okamoto_Hina</item>
+    </string-array>
+
+    <string-array name="video">
+        <item>pSwmgsJrBVI</item>
+        <item>2MktXTR7k_Y</item>
+        <item>l1DK0nocnLk</item>
+        <item>TkR5kAJ3qqg</item>
+        <item>WnfLHCMc</item>
+        <item>twZYGjA9p90</item>
+        <item>ntrD4uZyJtg</item>
+        <item>qJQM25dXWpE</item>
+        <item>09pqnQ2bNCg</item>
+        <item>aLCzBhaBb7c</item>
+        <item>IrGI6vvMPxw</item>
+
+    </string-array>
+
+
+
+
+
+</resources>
